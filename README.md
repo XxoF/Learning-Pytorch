@@ -1,5 +1,7 @@
 # Learning-Pytorch
-Learning Pytorch from zero to hero. Goat: can build or modify any model, any algorithms from scratch.
+Learning Pytorch from zero to hero. 
+
+Final goal of this project that I can build or modify any model, any algorithms from scratch.
 
 
 ## Main resources: 
